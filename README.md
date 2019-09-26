@@ -2,7 +2,7 @@
 
 Integrated with the latest Jenkins (2.195) recommended plugins and another plugins that I personally think are necessary
 
-**quick start **
+**quick start**
 
 `docker run --name myjenkins -d  -p 8848:8080 -p 50000:50000 basefly/jenkins:2.195-centos-plugins
 `
